@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muruganantham Sadasivam
-- 👀 I’m interested in Data science, AI/ML
+- 👀 I’m interested in Data science, AI/ML, MERN Stack
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Data Science, ML, Pyhton, Web Applications - React.js, JAVA
 - 📫 How to reach me @muruganantham1009, IG:- @anandsivam
